@@ -1,0 +1,33 @@
+.loginarea {
+    width:400px;
+    height:400px;
+    background-color:#EEE;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+}
+
+label {
+    display:block;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+label input,
+label span{
+    width:90%;
+    height:30px;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+button {
+    margin-left:20px;
+    cursor: pointer;
+}
+
+.error {
+    color:#FF0000;
+}
